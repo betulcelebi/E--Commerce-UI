@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
         theme: ThemeData(
           primarySwatch: Colors.amber,
         ),
-        home: MyHomePage(title: ""));
+        home: MyHomePage(title: "E- Commerce UI"));
   }
 }
 
